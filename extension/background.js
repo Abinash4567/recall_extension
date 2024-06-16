@@ -1,5 +1,5 @@
 chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
-    if(request.type === "siteName")
+    if(request.type === "twitterOrNot")
     {
         chrome.tabs.query({ active: true}, function(tabs){
             const currentTab = tabs[0];
