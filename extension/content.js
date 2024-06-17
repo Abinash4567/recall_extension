@@ -35,7 +35,7 @@ chrome.runtime.sendMessage({ type: "twitterOrNot" }, function (response) {
         }, 2000);
     }
     else 
-    {contain
-        console.log("NO")
+    {
+        console.log("NO");
     }
 });
