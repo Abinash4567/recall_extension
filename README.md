@@ -4,7 +4,7 @@
   <img src="https://github.com/Abinash4567/recall_extension/assets/98229006/7f535317-e1ef-4e39-83c9-f483ccf9be00" alt="logo">
 </p>
 
-##Glimpse 
+## Glimpse 
 <p align='center'> 
   <img src="https://github.com/Abinash4567/recall_extension/assets/98229006/83fc0868-2bf2-4893-be60-666c5ab90e80" alt="logo">
 </p>
