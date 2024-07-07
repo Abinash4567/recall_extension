@@ -6,7 +6,7 @@
 
 ## Glimpse 
 <p align='center'> 
-  <img src="https://github.com/Abinash4567/recall_extension/assets/98229006/83fc0868-2bf2-4893-be60-666c5ab90e80" alt="logo">
+  <img src="https://github.com/Abinash4567/recall_extension/assets/98229006/ae06768a-ddc1-44a3-97a9-c9cbece81c0b" alt="logo">
 </p>
 
 ## Installation
